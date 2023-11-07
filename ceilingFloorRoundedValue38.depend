@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699364911 source:c:\users\johnp\onedrive\desktop\c programming\ceilingfloorroundedvalue38\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
